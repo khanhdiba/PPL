@@ -12,7 +12,7 @@ There are 2 parts in this assignment.
     <li>Automated Semicolon: well, this is trickiest part of Lexer, we have to program in the Lexer class to define it, however, you can do it yourself, be confident</li>
 </ul>
 <b>Parser</b>: Well, after a list of initialization, we have to do the grammar, this part is not hard, however, the ways Dr Phung replied 4rum maked it harder, this is a war of 2 teams: "Nullable Block" and "At least a statement Block".
-<img src  ="meme1.png">
+<img src  ="meme1.png", style="align:center;">
 <ul>
     <li>Literals and Expressions: this part not hard, however you have to becareful in array literals, you can split it into many parsers, it can help you to easily handle the problem</li>
     <li>Declarations: This part is very easy, but try to split into many parsers, do not do in one line. It makes your code clean and easier to debug</li>
