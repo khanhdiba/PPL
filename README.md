@@ -12,7 +12,7 @@ There are 2 parts in this assignment.
     <li>Automated Semicolon: well, this is trickiest part of Lexer, we have to program in the Lexer class to define it, however, you can do it yourself, be confident</li>
 </ul>
 <b>Parser</b>: Well, after a list of initialization, we have to do the grammar, this part is not hard, however, the ways Dr Phung replied 4rum maked it harder, this is a war of 2 teams: "Nullable Block" and "At least a statement Block".
-<img src="meme1.png" style="display: block; margin: auto;">
+<p align="center"><img src="meme1.png" style="display: block; margin: auto;"></p>
 <ul>
     <li>Literals and Expressions: this part not hard, however you have to becareful in array literals, you can split it into many parsers, it can help you to easily handle the problem</li>
     <li>Declarations: This part is very easy, but try to split into many parsers, do not do in one line. It makes your code clean and easier to debug</li>
@@ -23,7 +23,7 @@ Well, I will write sample of parser here for you easily imagine. Assumes that, a
     if_full_stmt: if_stmt elif_stmt? else_stmt? ;
     if_stmt: IF expression COLON list_stmt ;
     elif_stmt: ELIF expression COLON list_stmt ;
-    else_stmt: ELSE list_stmt
+    else_stmt: ELSE list_stmt ;
 </code>
 
 <h3>Assignment 2</h3>
