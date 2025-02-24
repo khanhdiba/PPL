@@ -2,16 +2,16 @@
 <h1>Principle of Programming Language</h1>
 
 <h3>Assignment 1</h3>
-Well, this is not a hard assignment, study this makes me feel become a Linguistics student, not Computer Science :D
+Well, this is not a hard assignment, study this makes me feel of becoming a Linguistics student, not Computer Science :D
 There are 2 parts in this assignment.
 
 <b>Lexer</b>: Well, to be honest, this is just like a list of initializations, we have to define keywords, separators, literals, ... Not hard, however, when asking Dr Phung on 4rum, I love the way he replied forum, so at this part, there are some trickies:
 <ul>
-    <li>Int Literals: well, there are 4 types of IntLit in this assignment, so be careful</li>
-    <li>String Literals: Unlike Mr Duy, String of Dr Phung include 2 quotes so this is a legal string lit: "Hello" not Hello</li>
-    <li>Automated Semicolon: well, this is trickiest part of Lexer, we have to program in the Lexer class to define it, however, you can do it yourself, be confident</li>
+    <li>Int Literals: well, there are 4 types of IntLit in this assignment, so be careful.</li>
+    <li>String Literals: Unlike Mr Duy, String of Dr Phung include 2 quotes so this is a legal string lit: "Hello" not Hello.</li>
+    <li>Automated Semicolon: well, this is trickiest part of Lexer, we have to program in the Lexer class to define it, however, you can do it yourself, be confident.</li>
 </ul>
-<b>Parser</b>: Well, after a list of initialization, we have to do the grammar, this part is not hard, however, the ways Dr Phung replied 4rum maked it harder, this is a war of 2 teams: "Nullable Block" and "At least a statement Block".<br>
+<b>Parser</b>: Well, after a list of initialization, we have to do the grammar, this part is not hard, however, the ways Dr Phung replied 4rum made it harder, this was a war of 2 teams: "Nullable Block" and "At least a statement Block".<br>
 <p align="center"><img src="meme1.png" style="display: block; margin: auto;"></p>
 <ul>
     <li>Literals and Expressions: this part not hard, however you have to becareful in array literals, you can split it into many parsers, it can help you to easily handle the problem</li>
