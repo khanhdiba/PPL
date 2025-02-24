@@ -19,7 +19,7 @@ There are 2 parts in this assignment.
     <li>Statements: Well, nothing to say, it likes Declarations, but remember that, the program is list of declarations, <b>NOT</b> list of statement</li>
 </ul>
 Well, I will write sample of parser here for you easily imagine. Assumes that, all uppercases are Lexer and lowercases are parsers. this is just sample, not relevant to this assignment, maybe this is Python:<br>
-<p align="center">
+<p margin-left="30%">
 <code>
     if_full_stmt: if_stmt elif_stmt? else_stmt? ;
     if_stmt: IF expression COLON list_stmt ;
