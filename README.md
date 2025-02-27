@@ -2,6 +2,7 @@
 <h1>Principle of Programming Language</h1>
 
 <h3>Assignment 1</h3>
+<b>Grade: Lexer (100/100), Parser(98/100)</b>
 Well, this is not a hard assignment, study this makes me feel of becoming a Linguistics student, not Computer Science :D
 There are 2 parts in this assignment.
 
