@@ -1,4 +1,4 @@
-<p align="center"><h1>Assignment 1: PPL</h1></p>
+<h1 align="center">Assignment 1: PPL</h1>
 
 # What in this part:
 <ul>
