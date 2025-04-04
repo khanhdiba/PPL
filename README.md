@@ -68,7 +68,9 @@ There are some tricks to do this assignment easier:
     <li>If your assignment have some type of declarations that have lifetime from the beginning to the ending of program (do not care where is your declaration) --> visit more than one time in your program --> make your assignment shorter.</li>
 
 </ul>
-<a href="https://imgflip.com/i/9pp3vf"><img src="https://i.imgflip.com/9pp3vf.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
-<a href="https://imgflip.com/i/9pp463"><img src="https://i.imgflip.com/9pp463.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
-<a href="https://imgflip.com/i/9pp474"><img src="https://i.imgflip.com/9pp474.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<p align="center">
+<a href="https://imgflip.com/i/9pp3vf"><img src="https://i.imgflip.com/9pp3vf.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+<a href="https://imgflip.com/i/9pp463"><img src="https://i.imgflip.com/9pp463.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+<a href="https://imgflip.com/i/9pp474"><img src="https://i.imgflip.com/9pp474.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+</p>
 <h3>Assignment 4</h3>
