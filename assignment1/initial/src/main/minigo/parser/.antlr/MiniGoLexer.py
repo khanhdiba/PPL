@@ -1,4 +1,4 @@
-# Generated from d:/MAIN COURSE/BASIC COURSES/PPL/assignment1/initial/src/main/minigo/parser/MiniGo.g4 by ANTLR 4.13.1
+# Generated from d:/MAIN COURSE/BASIC COURSES/PPL/PPL/assignment1/initial/src/main/minigo/parser/MiniGo.g4 by ANTLR 4.13.1
 from antlr4 import *
 from io import StringIO
 import sys

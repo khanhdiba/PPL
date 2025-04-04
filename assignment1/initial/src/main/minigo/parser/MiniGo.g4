@@ -181,7 +181,8 @@ literal:
 //RECHECK IF ARRAY LITERAL INSIDE BRACKETS CAN NULLABLE?
 array_literal: array_init array_type LCB list_array_index RCB;
 array_type: INT | FLOAT | BOOLEAN | STRING | ID;
-array_init: LSB (int_lit | ID) RSB array_init?;     //this is array dimension, accecpt [const_val], [0x12], [0b101], [0o454]
+// array_init: LSB (int_lit | ID) RSB array_init?;     //this is array dimension, accecpt [const_val], [0x12], [0b101], [0o454]
+array_init: array_init LSB (int_lit | ID) RSB | LSB (int_lit | ID) RSB ;
 array_index:
     int_lit
     | FLOAT_LIT
