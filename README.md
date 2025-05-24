@@ -70,11 +70,9 @@ There are some tricks to do this assignment easier:
     <li>If your assignment have some type of declarations that have lifetime from the beginning to the ending of program (do not care where is your declaration) --> visit more than one time in your program --> make your assignment shorter.</li>
 
 </ul>
-<p align="center">
 <a href="https://imgflip.com/i/9v1rms"><img src="https://i.imgflip.com/9v1rms.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 <a href="https://imgflip.com/i/9pp463"><img src="https://i.imgflip.com/9pp463.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 <a href="https://imgflip.com/i/9pp474"><img src="https://i.imgflip.com/9pp474.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
-</p>
 <h3>Assignment 4</h3>
 <b>Testcase Grade: 96/101 ~ 9.5/10.0</b><br>
 <b>Harmony Grade: /10.0</b><br>
@@ -89,8 +87,8 @@ This assignment is the <b>HARDEST</b> in this semester (personal perspective), b
 You should practice 2 last topics, many questions in these 2 topics, about harmony, many of them are fill in blank questions, so try to read carefully and do it.
 
 <h3>Music to listen while doing assignment:</h3>
-<a href="https://youtu.be/D4Fi1YBbzDY?si=Z3vUpFy5B1hfOqFf">1st song</a>
-<a href="https://youtu.be/K4xLi8IF1FM?si=gwMRFQIr9dZK7QO1">2nd song <(") </a>
-<a href="https://youtu.be/W-0lSiV-H7k?si=0DSifoPl3NQ_xtW-">Ruby chan~~ </a>
+<a href="https://youtu.be/D4Fi1YBbzDY?si=Z3vUpFy5B1hfOqFf">1st song</a><br>
+<a href="https://youtu.be/K4xLi8IF1FM?si=gwMRFQIr9dZK7QO1">2nd song <(") </a><br>
+<a href="https://youtu.be/W-0lSiV-H7k?si=0DSifoPl3NQ_xtW-">Ruby chan~~ </a><br>
 <b>DM me for more :D</b>
-<img href="https://ih1.redbubble.net/image.1943002456.4467/raf,750x1000,075,t,322e3f:696a94a5d4.u2.jpg"/>
+<img src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg"></img>
