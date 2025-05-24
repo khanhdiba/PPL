@@ -90,5 +90,6 @@ You should practice 2 last topics, many questions in these 2 topics, about harmo
 <a href="https://youtu.be/D4Fi1YBbzDY?si=Z3vUpFy5B1hfOqFf">1st song</a><br>
 <a href="https://youtu.be/K4xLi8IF1FM?si=gwMRFQIr9dZK7QO1">2nd song <(") </a><br>
 <a href="https://youtu.be/W-0lSiV-H7k?si=0DSifoPl3NQ_xtW-">Ruby chan~~ </a><br>
+<a href="https://youtu.be/7kO_ALcwNAw?si=8iCmgpO8swMxFgR4">"Have you ever listened to Trinh?"</a><br>
 <b>DM me for more :D</b>
 <img src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg"></img>
