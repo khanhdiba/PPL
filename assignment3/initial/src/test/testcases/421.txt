@@ -1,0 +1,8 @@
+
+                var a int;
+                type a struct {
+                    x int;
+                    y int;
+                }
+                const b = 10;
+                

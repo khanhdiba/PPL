@@ -1,0 +1,7 @@
+
+                func main() {
+                    if (x < 2) {
+                        continue;
+                    }
+                }
+                

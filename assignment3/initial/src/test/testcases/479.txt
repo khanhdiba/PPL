@@ -1,0 +1,6 @@
+
+            func main() {
+                s := "abc";
+                var x int = s;
+            }
+        

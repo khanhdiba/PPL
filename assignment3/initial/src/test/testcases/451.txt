@@ -1,0 +1,8 @@
+
+                var x int;
+                func foo() {
+                    var x bool;
+                    var x string;
+                }
+                func main() {return;}
+                

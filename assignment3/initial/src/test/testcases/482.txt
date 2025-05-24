@@ -1,0 +1,6 @@
+
+            func main() {
+                a := false;
+                a := 0;
+            }
+        

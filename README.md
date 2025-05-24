@@ -2,7 +2,7 @@
 <h1>Principle of Programming Language</h1>
 
 <h3>Assignment 1</h3>
-<b>Testcase Grade: Lexer(100/100), Parser(98/100)</b><br>
+<b>Testcase Grade: Lexer(100/100) ~ 10.0/10.0, Parser(98/100) ~ 9.8/10.0</b><br>
 <b>Harmony Grade: Lexer(10.0/10.0), Parser(10.0/10.0)</b><br>
 <b>Time need: a day (Reading materials) + half day (coding lexer and parser) + ~half day (fixing bug)</b><br>
 <b>Cover Topics: Lexical Analysis and Syntax Analysis</b><br>
@@ -33,7 +33,7 @@ Well, I will write sample of parser here for you easily imagine. Assumes that, a
 </p>
 
 <h3>Assignment 2</h3>
-<b>Testcase Grade: 94/100</b><br>
+<b>Testcase Grade: 94/100 ~ 9.4/10.0</b><br>
 <b>Harmony Grade: 7.5/10.0</b><br>
 <b>Time need: a week (Reading materials) + ~half day (coding and fixing bug)</b><br>
 <b>Cover Topics: OOP, FP (for your coding skills) and AST (learning how to build AST)</b><br>
@@ -47,13 +47,15 @@ But there are some issues while doing this assignment:
 </ul>
 So this is the easiest assignment, so try all that you can.
 <h3>Midterm</h3>
+<b>Grade: 8.5/10.0</b><br>
+In this midterm, the number of harmony questions was about 70 percent of this test, so the stragy for this test is to prioritize harmony questions and then others later.
 
 <h3>Assignment 3</h3>
-<b>Testcase Grade: /100</b><br>
+<b>Testcase Grade: 113/125 ~ 9.04/10.0</b><br>
 <b>Harmony Grade: /10.0</b><br>
 <b>Time need: a week (Reading materials) + ~1.5 week (coding and fixing bug)</b><br>
 <b>Cover Topics: Name and Type</b><br>
-This is the <b>HARDEST ASSIGNMENT</b>, nothing to say, in this assignment will have 3 parts:
+In this assignment will have 3 parts:
 <ul>
     <li>Redeclared Error</li>
     <li>Undeclared Error</li>
@@ -69,8 +71,26 @@ There are some tricks to do this assignment easier:
 
 </ul>
 <p align="center">
-<a href="https://imgflip.com/i/9pp3vf"><img src="https://i.imgflip.com/9pp3vf.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+<a href="https://imgflip.com/i/9v1rms"><img src="https://i.imgflip.com/9v1rms.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 <a href="https://imgflip.com/i/9pp463"><img src="https://i.imgflip.com/9pp463.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 <a href="https://imgflip.com/i/9pp474"><img src="https://i.imgflip.com/9pp474.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 </p>
 <h3>Assignment 4</h3>
+<b>Testcase Grade: 96/101 ~ 9.5/10.0</b><br>
+<b>Harmony Grade: /10.0</b><br>
+<b>Time need: ~1.5 week (coding and fixing bug)</b><br>
+<b>Cover Topics: JVM and Code Generation</b><br>
+
+This assignment is the <b>HARDEST</b> in this semester (personal perspective), but it is 90 percent like assignment 3 in doing, however, the environment variable pass can be different. We can use dict or write a Class for this env, this env contains: frame (class Frame: where we manage the stack of each method, manage the Label, state, ...), env (List[List]: use to contains the list of Symbols), isLeft(bool: read or write) and stmt(bool: stmt or expr)
+
+<h3>Final Examination</h3>
+<b>Grade: </b><br>
+
+You should practice 2 last topics, many questions in these 2 topics, about harmony, many of them are fill in blank questions, so try to read carefully and do it.
+
+<h3>Music to listen while doing assignment:</h3>
+<a href="https://youtu.be/D4Fi1YBbzDY?si=Z3vUpFy5B1hfOqFf">1st song</a>
+<a href="https://youtu.be/K4xLi8IF1FM?si=gwMRFQIr9dZK7QO1">2nd song <(") </a>
+<a href="https://youtu.be/W-0lSiV-H7k?si=0DSifoPl3NQ_xtW-">Ruby chan~~ </a>
+<b>DM me for more :D</b>
+<img href="https://ih1.redbubble.net/image.1943002456.4467/raf,750x1000,075,t,322e3f:696a94a5d4.u2.jpg"/>

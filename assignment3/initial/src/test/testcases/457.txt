@@ -1,0 +1,10 @@
+
+                type A struct {
+                    name string;
+                }
+
+                func main() {
+                    var a A;
+                    a.age := 20;
+                }
+                

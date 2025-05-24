@@ -1,0 +1,6 @@
+
+            func main() {
+                b := true;
+                var s string = b;
+            }
+        

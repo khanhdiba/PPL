@@ -1,0 +1,6 @@
+
+            func main() {
+                s := "true";
+                var x boolean = s;
+            }
+        

@@ -1,0 +1,7 @@
+
+                type A struct {
+                    x int;
+                    x float;
+                }
+                func main() {return;}
+                

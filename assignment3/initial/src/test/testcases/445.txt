@@ -1,0 +1,7 @@
+
+                var x int;
+                func main() {
+                    var x float;
+                    var x bool;
+                }
+                

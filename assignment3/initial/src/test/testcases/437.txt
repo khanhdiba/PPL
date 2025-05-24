@@ -1,0 +1,7 @@
+
+                func main() {
+                    for idx, val := range [3] int {1,2,3} {
+                            var b = 2;
+                    }
+                }
+                

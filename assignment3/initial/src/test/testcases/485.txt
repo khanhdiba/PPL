@@ -1,0 +1,6 @@
+
+            func main() {
+                x := "abc";
+                x := true;
+            }
+        

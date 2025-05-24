@@ -1,0 +1,6 @@
+
+            func main() {
+                a := 1.5;
+                var b boolean = a;
+            }
+        

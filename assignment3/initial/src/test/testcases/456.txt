@@ -1,0 +1,9 @@
+
+                func foo() {return;}
+                func main() {
+                    foo();
+                    foo();
+                    var foo = 1;
+                    foo();
+                }
+                

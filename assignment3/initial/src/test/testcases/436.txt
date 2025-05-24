@@ -1,0 +1,7 @@
+
+                func main() {
+                    for x < 2 {
+                            var b = 2;
+                    }
+                }
+                

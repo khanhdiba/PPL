@@ -1,0 +1,6 @@
+
+            func main() {
+                x := "hello";
+                var y float = x;
+            }
+        

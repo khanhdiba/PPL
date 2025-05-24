@@ -1,0 +1,1 @@
+Type Mismatch: VarDecl(c,StringType,FloatLiteral(1.23))

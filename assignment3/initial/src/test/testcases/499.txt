@@ -1,0 +1,6 @@
+
+            func main() {
+                y := true;
+                y := 1.0;
+            }
+        
